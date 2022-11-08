@@ -1,5 +1,4 @@
-<div align=center><h3>📚🌱⚡ STACKS</h3></div>
-***
+<div align=center><h3>🌱⚡</h3></div>
 
 <div align=center>
   <br>
