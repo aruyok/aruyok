@@ -1,8 +1,8 @@
-### Hi there 👋
+<br>
+<div align=center><h3>📚 STACKS</h3></div>
 
-<div align=center><h1>📚 STACKS</h1></div>
-
-<div align=center> 
+<div align=center>
+  <br>
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
   <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
   <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
@@ -21,7 +21,7 @@
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/Jira Software-0052CC?style=for-the-badge&logo=Jira Software&logoColor=white">
   <br>
-
+  <br>
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=aruyok)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 <!--
