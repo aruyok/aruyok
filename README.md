@@ -1,5 +1,4 @@
-<br>
-<div align=center><h3>📚 STACKS</h3></div>
+<div align=center><h2>📚 STACKS</h2></div>
 
 <div align=center>
   <br>
@@ -21,7 +20,7 @@
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/Jira Software-0052CC?style=for-the-badge&logo=Jira Software&logoColor=white">
   <br>
-  <br>
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=aruyok)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 <!--
